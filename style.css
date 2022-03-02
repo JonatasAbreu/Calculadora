@@ -7,7 +7,8 @@
 
 
 .container {
-    background: linear-gradient(#686a6c, #f1a23d);
+    background: rgb(38,33,201);
+    background: radial-gradient(circle, rgba(38,33,201,0.9724264705882353) 0%, rgba(15,15,20,1) 100%);
     width: 100vw;
     height: 100vw;
     display: grid;
